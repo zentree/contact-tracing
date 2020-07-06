@@ -1,11 +1,12 @@
-﻿organisation,coverage,dhb,date,format,comments
-Nelson Marlborough Health,Nelson Marlborough,Nelson Marlborough DHB,2020-06-16,none,Declined to answer
-Hauora Tairāwhiti,Gisborne region,Tairāwhiti DHB,2020-06-19,text,Three employees within its Health Protection team who are rostered on seven days a week
-Toi Te Ora Public Health,Bay of Plenty and Lakes regions,Bay of Plenty DHB,2020-06-22,html table,"The first confirmed case in this region was 17 March 2020, prior to this the number of staff working in COVID-19 contact tracing was zero"
-Auckland Regional Public Health Service,Auckland,"Waitemata, Counties Manukau, Auckland DHB",2020-06-25,PDF image,
-Northland District Health Board,Northland,Northland DHB,2020-06-22,PDF image,Contact tracing only from first to last case
-Whanganui District Health Board,Whanganui,Whanganui DHB,2020-06-22,PDF image,Number of Full Time Equivalent personnel *available* for contact tracing
-Canterbury and West Coast,Canterbury and West Coast,"Canterbury DHB, West Coast DHB",2020-06-29,PDF image,"Declined to answer. No tracers in December, January and February, Eary March"
-Toi Te Ora Public Health,Lakes,Lakes DHB,2020-06-29,PDF image,
-Waikato DHB,Waikato,Waikato DHB,2020-06-30,PDF image,
-National Close Contact Service,National,Ministry of Health,2020-07-03,PDF image,They also outsource. There are shifts
+﻿dhb,organisation,coverage,date,format,comments
+Nelson Marlborough DHB,Nelson Marlborough Health,Nelson Marlborough,2020-06-16,none,Declined to answer
+Tairāwhiti DHB,Hauora Tairāwhiti,Gisborne region,2020-06-19,text,Three employees within its Health Protection team who are rostered on seven days a week
+"Bay of Plenty, Lakes DHB",Toi Te Ora Public Health,Bay of Plenty and Lakes regions,2020-06-22,html table,"The first confirmed case in this region was 17 March 2020, prior to this the number of staff working in COVID-19 contact tracing was zero"
+"Waitemata, Counties Manukau, Auckland DHB",Auckland Regional Public Health Service,Auckland,2020-06-25,PDF image,
+Northland DHB,Northland District Health Board,Northland,2020-06-22,PDF image,Contact tracing only from first to last case
+Whanganui DHB,Whanganui District Health Board,Whanganui,2020-06-22,PDF image,Number of Full Time Equivalent personnel *available* for contact tracing
+"Canterbury DHB, West Coast DHB",Canterbury and West Coast,Canterbury and West Coast,2020-06-29,PDF image,"Declined to answer. No tracers in December, January and February, Eary March"
+Lakes DHB,Toi Te Ora Public Health,Lakes,2020-06-29,PDF image,
+Waikato DHB,Waikato DHB,Waikato,2020-06-30,PDF image,
+Ministry of Health,National Close Contact Service,National,2020-06-03,PDF image,They also outsource. There are shifts
+Southland DHB,Southland DHB,Southland,2020-06-03,PDF image,
